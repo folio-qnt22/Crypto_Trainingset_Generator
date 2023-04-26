@@ -15,6 +15,7 @@
 - optimise for a given stoploss, TP, entry offset, and time limit for an order to fill 
 
 
+<img width="846" alt="image" src="https://user-images.githubusercontent.com/103450613/234668729-c768fd6d-52f1-426e-9ea5-4878fd0e9fb9.png">
 
 
 
