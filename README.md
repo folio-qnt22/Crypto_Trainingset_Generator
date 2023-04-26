@@ -1,6 +1,6 @@
 # Crypto_Trainingset_Generator
 
-# Context 
+### Context 
 - This Jupyterlab will go through the training set generation for train a ML algo for trading
 - The code downloads the data from Binance REST API
     - We use 5 min resolution here as an example
