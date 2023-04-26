@@ -1,4 +1,4 @@
-# Crypto_Trainingset_Generator
+# Crypto Training set Generator
 
 ### Context 
 - This Jupyterlab will go through the training set generation for train a ML algo for trading
